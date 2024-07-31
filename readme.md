@@ -4,15 +4,7 @@ Fylo landing page with dark/light mode switcher using Tailwind and JavaScript fr
 
 ## Screenshots
 
-![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-fylo-1.png?raw=true)
-
-![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-fylo-2.png?raw=true)
-
-![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-fylo-3.png?raw=true)
-
-![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-fylo-4.png?raw=true)
-
-![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-fylo-5.png?raw=true)
+![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-fylo-fullPage.png?raw=true)
 
 ## Run Locally
 
